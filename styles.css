@@ -1,11 +1,11 @@
 body {
     margin: 0;
-    font-family: Sans Serif, sans-serif;
+    font-family: Sans Serif;
     background: #F5F5F5;
     color: #2F4F4F;
 }
 h1, h2 {
-    font-family: Mountain, serif;
+    font-family: Mountain;
     color: #696969;
 }
 a {
