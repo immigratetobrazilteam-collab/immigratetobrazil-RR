@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Roraima Immigration Site",
+  "url": "https://immigratetobrazil.com/rr/",
+  "description": "Roraima is Brazil's northernmost state, covering 223,644 km\u00b2 in the Amazon region, with Boa Vista as its capital. Known for indigenous reserves, diverse ecosystems, and ecotourism sites like Mount Roraima.",
+  "keywords": [
+    "Roraima",
+    "Amazon",
+    "Boa Vista",
+    "Mount Roraima",
+    "indigenous reserves",
+    "savannas",
+    "Venezuelan refugees"
+  ],
+  "inLanguage": "en"
+}
